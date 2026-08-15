@@ -4438,11 +4438,11 @@ function drawBotMenuScreen(
 
 
   const options = [
-    { key: "defensive", label: "Defensive" },
-    { key: "aggressive", label: "Aggressive" },
-    { key: "expert", label: "Expert" },
-    { key: "weak", label: "Beginner" },
-    { key: "trickster", label: "Trickster" }
+    { key: "weak", label: "Confused Bob" },
+    { key: "aggressive", label: "Mad Bob" },
+    { key: "defensive", label: "Paranoid Bob" },
+    { key: "expert", label: "Professor Bob" },
+    { key: "trickster", label: "Sneaky Bob" }
   ];
 
 
