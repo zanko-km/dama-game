@@ -4438,9 +4438,9 @@ function drawBotMenuScreen(
 
 
   const options = [
-    { key: "weak", label: "Confused Bob" },
+    { key: "weak", label: "Dumb Bob" },
     { key: "aggressive", label: "Mad Bob" },
-    { key: "defensive", label: "Paranoid Bob" },
+    { key: "defensive", label: "Stay-Back Bob" },
     { key: "expert", label: "Professor Bob" },
     { key: "trickster", label: "Sneaky Bob" }
   ];
